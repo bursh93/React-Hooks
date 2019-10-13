@@ -11,6 +11,7 @@ body {
 
 .todo.completed span {
   text-decoration: line-through;
+  color:red;
 }
 
 .todo label {
